@@ -6,6 +6,8 @@ Epub source for the [Standard Ebooks](https://standardebooks.org/about) edition 
 
 * Source material page scans at the internet archive here: [https://archive.org/details/sailingalonearo01slocgoog](https://archive.org/details/sailingalonearo01slocgoog). The source is also downloaded and stored in this repo as a [PDF here](https://github.com/eggplantpasta/joshua-slocum_sailing-alone-around-the-world/blob/main/sailingalonearo01slocgoog.pdf) for ease of offline work.
 
+* The cover art is [La Mer Orageuse](https://thegriggs.org/gallery/la-mer-orageuse-gustave-courbet/) by [Gustave Courbet](https://en.wikipedia.org/wiki/Gustave_Courbet).
+
 * Project Gutenberg version (#6317) [https://www.gutenberg.org/ebooks/6317](https://www.gutenberg.org/ebooks/6317).
 
 * Standard Ebook production guide, [Producing an Ebook, Step by Step](https://standardebooks.org/contribute/producing-an-ebook-step-by-step).
