@@ -19,4 +19,4 @@ Epub source for the [Standard Ebooks](https://standardebooks.org/about) edition 
 Lint error count: $ expr `se lint . | wc -l` / 3
 
 14/02/2024 736 First lint !!!
-14/02/2024 529
+14/02/2024 219
