@@ -13,3 +13,9 @@ Epub source for the [Standard Ebooks](https://standardebooks.org/about) edition 
 * Standard Ebook production guide, [Producing an Ebook, Step by Step](https://standardebooks.org/contribute/producing-an-ebook-step-by-step).
 
 * [Standard Ebooks Manual of Style](https://standardebooks.org/manual).
+
+## Development notes
+
+Lint error count: expr `se lint . | wc -l` / 3
+
+First lint 14/02/2024 736 !!!
