@@ -1,4 +1,18 @@
-# Sailing Alone Around The World
+# EPUB Working Directory
+
+Work files and notes for Epub productions are kept here so as to not interfeer with production tools.
+
+* Standard Ebook production guide, [Producing an Ebook, Step by Step](https://standardebooks.org/contribute/producing-an-ebook-step-by-step).
+
+* [Standard Ebooks Manual of Style](https://standardebooks.org/manual).
+
+Lint count method:
+
+```sh
+se lint . | grep "├" | wc -l
+```
+
+## Sailing Alone Around The World
 
 by Captain Joshua Slocum, published 1900.
 
@@ -10,17 +24,7 @@ Epub source for the [Standard Ebooks](https://standardebooks.org/about) edition 
 
 * Project Gutenberg version (#6317) [https://www.gutenberg.org/ebooks/6317](https://www.gutenberg.org/ebooks/6317).
 
-* Standard Ebook production guide, [Producing an Ebook, Step by Step](https://standardebooks.org/contribute/producing-an-ebook-step-by-step).
+Lint counts:
 
-* [Standard Ebooks Manual of Style](https://standardebooks.org/manual).
-
-## Development notes
-
-Lint error count: $ expr `se lint . | wc -l` / 3
-
-* 14/02/2024 736 First lint !!!
-* 14/02/2024 219
-
-New lint count method: $ se lint . | grep "├" | wc -l
-
+* 13/02/2024 2109
 * 14/02/2024 158
